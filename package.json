@@ -1,8 +1,11 @@
 {
-    "name": "name",
-    "description": "description",
+    "name": "logo-generator",
+    "description": "A command line logo generator",
     "authors": "author",
     "version": "1.0.0",
     "main": "pathToMain",
-    "dependencies": {}
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "jest": "^29.7.0"
+    }
 }
