@@ -14,7 +14,7 @@ This repository can be cloned to your local repo and run in VScode. The use of t
  5. Your newly generated logo will populate after completing the questions! 
 
 ## Credits
-* 
+* Received assistance from classmate [Kailey Clendinning](https://github.com/clendinning1) on setting up shapes test
 
 ## Links
 [Demo Link]()
